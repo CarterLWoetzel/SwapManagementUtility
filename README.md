@@ -1,5 +1,4 @@
-# SwapManagementUtility
-A variety of tools and links to help manage ShadeSwap.
+# Set Up 
 
 (1) mkdir pair_staking_config_jsons in the same directory as this github repo. Be sure to name it precisely as stated. <br>
 (2) In the counter.py update the variable my_path = "/home/astgeorge/SecretCLITooling/pair_staking_config_jsons" to your directory. Use the command pwd to find this. <br>
